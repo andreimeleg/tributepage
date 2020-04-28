@@ -1,0 +1,25 @@
+#title { 
+    font-style: cursive;
+    font-size: 50px;
+}
+#img-caption {
+    font-family: cursive, monospace;
+        margin: center;
+}
+main {
+    background-color: rgb(216, 210, 161);
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto; 
+    margin: 0 auto;
+}
+.quote {
+    font-family:cursive;
+    }
+body {
+    text-align: center;
+  
+}
+
